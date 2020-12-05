@@ -1,0 +1,15 @@
+{
+  "name": "bithday-isprime",
+  "version": "1.0.0",
+  "description": "This app checks if the user's birth day is a prime number or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil Movva",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
